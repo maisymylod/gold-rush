@@ -247,4 +247,4 @@ Proprietary - Copyright © 2026 Goldsmith & Co. For internal use only.
 
 ## Support
 
-For issues or questions, contact the development team internally or reach out to info@goldsmithandco.com.
+For issues or questions, contact the development team internally or reach out to maisy@goldsmithandco.com.
